@@ -1,0 +1,3 @@
+[console_scripts]
+loganalyze = analyzer.cli:main
+sshdashboard = analyzer.launch_dashboard:main

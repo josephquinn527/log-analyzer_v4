@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: log-analyzer
+Version: 0.1
+Summary: SSH log analyzer with GeoIP and Streamlit dashboard
+Author: Your Name
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: streamlit

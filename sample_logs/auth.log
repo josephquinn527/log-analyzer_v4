@@ -1,0 +1,20 @@
+Jan 10 06:31:55 ubuntu sshd[1999]: Failed password for invalid user admin from 192.168.1.22 port 54321 ssh2
+Jan 10 06:32:01 ubuntu sshd[2001]: Failed password for root from 192.168.1.30 port 53411 ssh2
+Jan 10 06:32:05 ubuntu sshd[2003]: Failed password for invalid user test from 10.0.0.5 port 51123 ssh2
+Jan 10 07:01:55 ubuntu sshd[2100]: Failed password for user1 from 203.0.113.42 port 60000 ssh2
+Jan 10 07:03:00 ubuntu sshd[2101]: Accepted password for user1 from 203.0.113.42 port 60001 ssh2
+Jan 10 08:15:33 ubuntu sshd[2111]: Failed password for invalid user oracle from 45.77.22.13 port 54500 ssh2
+Jan 10 09:55:17 ubuntu sshd[2130]: Failed password for user1 from 203.0.113.42 port 60111 ssh2
+Jan 10 10:12:41 ubuntu sshd[2145]: Accepted password for user2 from 203.0.113.42 port 60112 ssh2
+Jan 10 10:13:15 ubuntu sshd[2146]: Failed password for root from 198.51.100.45 port 54000 ssh2
+Jan 11 01:32:05 ubuntu sshd[2203]: Failed password for invalid user git from 139.162.123.15 port 51000 ssh2
+Jan 11 02:45:30 ubuntu sshd[2210]: Accepted password for admin from 203.0.113.99 port 50200 ssh2
+Jan 11 03:50:15 ubuntu sshd[2225]: Failed password for invalid user guest from 172.16.0.9 port 52000 ssh2
+Jan 12 04:31:55 ubuntu sshd[2300]: Failed password for invalid user ubuntu from 45.77.22.13 port 53321 ssh2
+Jan 12 05:22:21 ubuntu sshd[2305]: Failed password for test from 203.0.113.42 port 60222 ssh2
+Jan 12 06:33:33 ubuntu sshd[2310]: Accepted password for test from 203.0.113.42 port 60223 ssh2
+Jan 12 06:35:12 ubuntu sshd[2311]: Failed password for invalid user deploy from 185.199.110.153 port 55555 ssh2
+Jan 12 07:44:44 ubuntu sshd[2315]: Failed password for root from 198.51.100.45 port 54001 ssh2
+Jan 13 08:00:00 ubuntu sshd[2400]: Failed password for invalid user git from 139.162.123.15 port 51001 ssh2
+Jan 13 08:15:15 ubuntu sshd[2402]: Accepted password for root from 198.51.100.45 port 54002 ssh2
+Jan 13 09:30:30 ubuntu sshd[2405]: Failed password for invalid user apache from 185.199.110.153 port 56000 ssh2
